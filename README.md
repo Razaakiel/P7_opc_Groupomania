@@ -17,7 +17,7 @@ Enfin, lancer le projet avec `nodemon serve`
 Le serveur sera accessible sur http://localhost:3000 par défaut.
 
 ## Installation frontend
-Le projet a été généré avec [Vue.js](https://vuejs.org/) version 2.6.
+Le projet a été généré avec vue.
 Pour le faire fonctionner, se positionner sur le dossier frontend à partir du projet.
 ```
 > cd frontend
